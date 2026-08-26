@@ -16,7 +16,7 @@ jobs:
 
       - name: Push changes
         run: |
-          git config user.name "akshat-jasrotia"
+          git config user.name "akshatjasrotia85"
           git config user.email "akshatjasrotia85@gmail.com"
           git add daily_commit.txt
           git commit -m "$(date)"
